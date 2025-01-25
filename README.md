@@ -17,7 +17,7 @@
 
 ## Contato
 - 📧 Email: fernando.cbj.tec@gmail.com
-- 🔗 LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil)
+- 🔗 LinkedIn: [Seu Nome](https://br.linkedin.com/in/fernando-cesar-botelho-junior)
 - 🌐 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)
 
 ## Estatísticas do GitHub
