@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [Fernando Cesar]! 👋
 
 ## Sobre Mim
 - 🎓 Formado em Desenvolvimento Full Stack Python pela EBAC.
@@ -17,7 +17,7 @@
 
 ## Contato
 - 📧 Email: fernando.cbj.tec@gmail.com
-- 🔗 LinkedIn: [Seu Nome](https://br.linkedin.com/in/fernando-cesar-botelho-junior)
+- 🔗 LinkedIn: [Fernando Cesar B. Junior](https://br.linkedin.com/in/fernando-cesar-botelho-junior)
 - 🌐 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)
 
 ## Estatísticas do GitHub
