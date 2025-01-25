@@ -21,7 +21,7 @@
 - 🌐 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fernando-cbj-Tec&show_icons=true&theme=radical)
 
 <!---
 Fernando-cbj-Tec/Fernando-cbj-Tec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
