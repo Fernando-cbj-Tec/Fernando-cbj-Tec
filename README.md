@@ -18,7 +18,7 @@
 ## Contato
 - 📧 Email: fernando.cbj.tec@gmail.com
 - 🔗 LinkedIn: [Fernando Cesar B. Junior](https://br.linkedin.com/in/fernando-cesar-botelho-junior)
-- 🌐 Portfólio: [seu-portfolio.com](https://fctec.dev.com)
+- 🌐 Portfólio: [FCTEC](https://fctec.dev.com)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fernando-cbj-Tec&show_icons=true&theme=radical)
